@@ -126,5 +126,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "resolutions": {
+    "**/semver": "^7.5.2"
   }
 }
